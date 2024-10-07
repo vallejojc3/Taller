@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 260a5137c21c3cf57ec7014bff52b4be115d21d0 vallejojc3 <vallejojuanpablo27@gmail.com> 1728281522 -0500	commit (initial): Commit inicial del proyecto
+260a5137c21c3cf57ec7014bff52b4be115d21d0 18a25fd269896251afdcfae3b3add35caa649c15 vallejojc3 <vallejojuanpablo27@gmail.com> 1728281915 -0500	pull origin main --rebase (finish): refs/heads/master onto 16f3d2eb8c2fd0f994d885e6e296d2e8685b8c7a
+18a25fd269896251afdcfae3b3add35caa649c15 57281bddedfcdc0741c2611a55b6b173e9730a65 vallejojc3 <vallejojuanpablo27@gmail.com> 1728282880 -0500	merge feature: Fast-forward
+57281bddedfcdc0741c2611a55b6b173e9730a65 2b0a5022f91ac5d08a421a8c9fff2fcbfb35c6ba vallejojc3 <vallejojuanpablo27@gmail.com> 1728282906 -0500	reset: moving to HEAD~1
+2b0a5022f91ac5d08a421a8c9fff2fcbfb35c6ba 57281bddedfcdc0741c2611a55b6b173e9730a65 vallejojc3 <vallejojuanpablo27@gmail.com> 1728282916 -0500	rebase (finish): refs/heads/master onto 57281bddedfcdc0741c2611a55b6b173e9730a65
+57281bddedfcdc0741c2611a55b6b173e9730a65 faac1cf389a3bb425c9b8871542af3f9f65c5393 vallejojc3 <vallejojuanpablo27@gmail.com> 1728283010 -0500	cherry-pick: Hotfix

@@ -1,0 +1,19 @@
+0000000000000000000000000000000000000000 260a5137c21c3cf57ec7014bff52b4be115d21d0 vallejojc3 <vallejojuanpablo27@gmail.com> 1728281522 -0500	commit (initial): Commit inicial del proyecto
+260a5137c21c3cf57ec7014bff52b4be115d21d0 16f3d2eb8c2fd0f994d885e6e296d2e8685b8c7a vallejojc3 <vallejojuanpablo27@gmail.com> 1728281915 -0500	pull origin main --rebase (start): checkout 16f3d2eb8c2fd0f994d885e6e296d2e8685b8c7a
+16f3d2eb8c2fd0f994d885e6e296d2e8685b8c7a 18a25fd269896251afdcfae3b3add35caa649c15 vallejojc3 <vallejojuanpablo27@gmail.com> 1728281915 -0500	pull origin main --rebase (pick): Commit inicial del proyecto
+18a25fd269896251afdcfae3b3add35caa649c15 18a25fd269896251afdcfae3b3add35caa649c15 vallejojc3 <vallejojuanpablo27@gmail.com> 1728281915 -0500	pull origin main --rebase (finish): returning to refs/heads/master
+18a25fd269896251afdcfae3b3add35caa649c15 18a25fd269896251afdcfae3b3add35caa649c15 vallejojc3 <vallejojuanpablo27@gmail.com> 1728282332 -0500	checkout: moving from master to feature
+18a25fd269896251afdcfae3b3add35caa649c15 d1a2dc34f7997ad4a983c4d466a301b4b561111d vallejojc3 <vallejojuanpablo27@gmail.com> 1728282551 -0500	commit: segundo commit en feature
+d1a2dc34f7997ad4a983c4d466a301b4b561111d 2b0a5022f91ac5d08a421a8c9fff2fcbfb35c6ba vallejojc3 <vallejojuanpablo27@gmail.com> 1728282738 -0500	commit: segundo commit
+2b0a5022f91ac5d08a421a8c9fff2fcbfb35c6ba 57281bddedfcdc0741c2611a55b6b173e9730a65 vallejojc3 <vallejojuanpablo27@gmail.com> 1728282806 -0500	commit: tercer commit en feature
+57281bddedfcdc0741c2611a55b6b173e9730a65 18a25fd269896251afdcfae3b3add35caa649c15 vallejojc3 <vallejojuanpablo27@gmail.com> 1728282866 -0500	checkout: moving from feature to master
+18a25fd269896251afdcfae3b3add35caa649c15 57281bddedfcdc0741c2611a55b6b173e9730a65 vallejojc3 <vallejojuanpablo27@gmail.com> 1728282880 -0500	merge feature: Fast-forward
+57281bddedfcdc0741c2611a55b6b173e9730a65 2b0a5022f91ac5d08a421a8c9fff2fcbfb35c6ba vallejojc3 <vallejojuanpablo27@gmail.com> 1728282906 -0500	reset: moving to HEAD~1
+2b0a5022f91ac5d08a421a8c9fff2fcbfb35c6ba 57281bddedfcdc0741c2611a55b6b173e9730a65 vallejojc3 <vallejojuanpablo27@gmail.com> 1728282916 -0500	rebase (start): checkout feature
+57281bddedfcdc0741c2611a55b6b173e9730a65 57281bddedfcdc0741c2611a55b6b173e9730a65 vallejojc3 <vallejojuanpablo27@gmail.com> 1728282916 -0500	rebase (finish): returning to refs/heads/master
+57281bddedfcdc0741c2611a55b6b173e9730a65 57281bddedfcdc0741c2611a55b6b173e9730a65 vallejojc3 <vallejojuanpablo27@gmail.com> 1728282942 -0500	checkout: moving from master to hotfix
+57281bddedfcdc0741c2611a55b6b173e9730a65 ad5577f6dfcf021d083dcda49cd106fbd2586152 vallejojc3 <vallejojuanpablo27@gmail.com> 1728282981 -0500	commit: Hotfix
+ad5577f6dfcf021d083dcda49cd106fbd2586152 57281bddedfcdc0741c2611a55b6b173e9730a65 vallejojc3 <vallejojuanpablo27@gmail.com> 1728282995 -0500	checkout: moving from hotfix to master
+57281bddedfcdc0741c2611a55b6b173e9730a65 faac1cf389a3bb425c9b8871542af3f9f65c5393 vallejojc3 <vallejojuanpablo27@gmail.com> 1728283010 -0500	cherry-pick: Hotfix
+faac1cf389a3bb425c9b8871542af3f9f65c5393 57281bddedfcdc0741c2611a55b6b173e9730a65 vallejojc3 <vallejojuanpablo27@gmail.com> 1728283073 -0500	checkout: moving from master to feature
+57281bddedfcdc0741c2611a55b6b173e9730a65 faac1cf389a3bb425c9b8871542af3f9f65c5393 vallejojc3 <vallejojuanpablo27@gmail.com> 1728283145 -0500	checkout: moving from feature to master
